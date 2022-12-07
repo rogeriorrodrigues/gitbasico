@@ -1,0 +1,15 @@
+C:\santandercoders\gitbasico\bin\Debug\net7.0\gitbasico.exe
+C:\santandercoders\gitbasico\bin\Debug\net7.0\gitbasico.deps.json
+C:\santandercoders\gitbasico\bin\Debug\net7.0\gitbasico.runtimeconfig.json
+C:\santandercoders\gitbasico\bin\Debug\net7.0\gitbasico.dll
+C:\santandercoders\gitbasico\bin\Debug\net7.0\gitbasico.pdb
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.csproj.AssemblyReference.cache
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.AssemblyInfoInputs.cache
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.AssemblyInfo.cs
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.csproj.CoreCompileInputs.cache
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.dll
+C:\santandercoders\gitbasico\obj\Debug\net7.0\refint\gitbasico.dll
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.pdb
+C:\santandercoders\gitbasico\obj\Debug\net7.0\gitbasico.genruntimeconfig.cache
+C:\santandercoders\gitbasico\obj\Debug\net7.0\ref\gitbasico.dll
