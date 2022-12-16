@@ -11,6 +11,7 @@ Biritis
 
 //novo commit 3
 //Zoando das boas práticas
+//objetivo excluir intervalo
 
 
 Mussum Ipsum....
